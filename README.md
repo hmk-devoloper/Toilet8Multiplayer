@@ -1,9 +1,9 @@
 # Toilet8Multiplayer (Sorry for my bad english)
 Toilet8Multiplayer mod for Toilet8.
 
-Visible Plyaers:yes.
+# Visible Plyaers:yes.
 
-Not Sync anomalies sorry.
+# Not Sync anomalies sorry.
 
 Guide.
 
@@ -32,7 +32,7 @@ For Client:
 Что нужно:
 Архив с модом (Извлечь в папку с игрой)
 
-Для хоста:
+# Для хоста:
 # (0.Ты уже скачал архив с модом и распокавал).
 1.Создай файл в папке с игрой,с названием multiplayer.host и сохранить. (Писать ничего не нужно).
 
@@ -40,7 +40,7 @@ For Client:
 
 3.Запусти игру.
 
-Для клиента:
+# Для клиента:
 # (0.Ты уже скачал архив с модом и распокавал).
 
 1.Создай файл в папке с игрой,с названием multiplayer.server и напиши в файле айпи сервера. (Порт не нужен).
